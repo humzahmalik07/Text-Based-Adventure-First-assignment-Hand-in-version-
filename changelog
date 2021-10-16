@@ -1,0 +1,14 @@
+# changelog
+All important changes of this project will be documented here
+
+## [0.0.2] 2021-08-15
+### Added
+- a quit option is added
+- Changelog is added
+- Docstrings are added
+
+## [0.0.1] 2021-09-16
+### Original version
+- A text-based adventure game is created
+- consists of one character only
+- The character's purpose is to move around a "temple" and find his way out
