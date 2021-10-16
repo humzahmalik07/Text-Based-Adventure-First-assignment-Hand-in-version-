@@ -23,6 +23,10 @@ You need to get out of the temple, find a boat and escape using the river.
 You are in a maze. You need to find your way out of the temple.
 
 You can go four directions: forward, backward, right, left
+
+You also have an option to quit the game,
+which is accessible from the menu
+
 """)
 
 
